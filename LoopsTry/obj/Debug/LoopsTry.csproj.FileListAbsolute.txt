@@ -1,0 +1,7 @@
+C:\Users\Lior\source\repos\LoopsTry\LoopsTry\obj\Debug\LoopsTry.csproj.CoreCompileInputs.cache
+C:\Users\Lior\source\repos\LoopsTry\LoopsTry\bin\Debug\LoopsTry.exe.config
+C:\Users\Lior\source\repos\LoopsTry\LoopsTry\bin\Debug\LoopsTry.exe
+C:\Users\Lior\source\repos\LoopsTry\LoopsTry\bin\Debug\LoopsTry.pdb
+C:\Users\Lior\source\repos\LoopsTry\LoopsTry\obj\Debug\LoopsTry.exe
+C:\Users\Lior\source\repos\LoopsTry\LoopsTry\obj\Debug\LoopsTry.pdb
+C:\Users\Lior\source\repos\LoopsTry\LoopsTry\obj\Debug\LoopsTry.csproj.AssemblyReference.cache
